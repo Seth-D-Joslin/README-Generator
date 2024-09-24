@@ -49,7 +49,7 @@ function writeToFile(data) {
   ## Credits
   ${data.credits}
   ## License
-
+  
   ## Tests
   ${data.tests}
   ## Questions
